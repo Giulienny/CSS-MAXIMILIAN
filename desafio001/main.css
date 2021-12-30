@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family: 'Antonio', sans-serif;
+    color: rgba(238, 130, 238, 0.76);
+}
+
+li {
+    background: black;
+    color: white;
+}
+
+li > code {
+    font-family: monospace;
+    color: red;
+}
+
+.green {
+    color: green;
+}
